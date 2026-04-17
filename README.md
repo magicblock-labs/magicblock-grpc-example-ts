@@ -74,16 +74,12 @@ account update: 3iyqQqpe6M11iqyZBkmSVvC34JMKF4BD3d29FFR7yeyN
 [many more]
 
 === Summary for https://devnet.magicblock.app ===
-Pongs: 0
-Slots: 0
+Slots: 96
 Account updates: 425
-Transactions: 0
 
 === Summary for https://devnet-as.magicblock.app ===
-Pongs: 0
-Slots: 97
+Slots: 96
 Account updates: 425
-Transactions: 0
 ```
 
 ## Notes
