@@ -1,0 +1,12 @@
+{
+  "name": "magicblock-grpc-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:flash-trade/magicblock-grpc-example.git",
+  "author": "Thorsten Lorenz <thlorenz@gmx.de>",
+  "license": "MIT",
+  "dependencies": {
+    "@triton-one/yellowstone-grpc": "^5.0.8",
+    "bs58": "^6.0.0"
+  }
+}
