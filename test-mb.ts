@@ -89,13 +89,11 @@ async function testUrl(url: string): Promise<TestResult> {
       filters: [],
     },
   };
-  const slots: { [key: string]: SubscribeRequestFilterSlots } = {
-    client: { filterByCommitment: true },
-  };
   // NOTE: The below results in slot updates even if we use CONFIRMED commitment level
-  // const slots: { [key: string]: SubscribeRequestFilterSlots } = {
-  //   client: { filterByCommitment: false },
-  // };
+  // Setting this to `true` instead results in no slot updates at all
+  const slots: { [key: string]: SubscribeRequestFilterSlots } = {
+    client: { filterByCommitment: false },
+  };
   const transactions: { [key: string]: SubscribeRequestFilterTransactions } =
     {};
   const clientTxFilter: SubscribeRequestFilterTransactions = {

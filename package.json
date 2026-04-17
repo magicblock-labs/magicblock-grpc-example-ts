@@ -13,7 +13,9 @@
     "bs58": "^6.0.0"
   },
   "devDependencies": {
+    "@types/node": "^22.0.0",
     "esbuild": "^0.28.0",
-    "esbuild-runner": "^2.2.2"
+    "esbuild-runner": "^2.2.2",
+    "typescript": "^5.8.0"
   }
 }

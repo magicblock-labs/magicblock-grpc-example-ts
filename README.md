@@ -68,6 +68,8 @@ Ping OK: {"count":1}
 Subscribed
 account update: 2BMdwfyqfDDbgPxNamBUh2fWoAUNZj8LHSAVEdrMNCGY
 account update: 3BrJYqAp7TEwAe4zpNh9A4yoVLBfyenz1Vh5pLq2g9tk
+slot: 328700430
+slot: 328700431
 account update: 3iyqQqpe6M11iqyZBkmSVvC34JMKF4BD3d29FFR7yeyN
 [many more]
 
@@ -79,7 +81,7 @@ Transactions: 0
 
 === Summary for https://devnet-as.magicblock.app ===
 Pongs: 0
-Slots: 0
+Slots: 97
 Account updates: 425
 Transactions: 0
 ```
